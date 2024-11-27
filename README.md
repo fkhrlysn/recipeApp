@@ -1,6 +1,6 @@
 # recipe_app
 
-A new Flutter project.
+A recipe app project focusing on basic CRUD using HIVE in Flutter.
 
 ## Getting Started
 
